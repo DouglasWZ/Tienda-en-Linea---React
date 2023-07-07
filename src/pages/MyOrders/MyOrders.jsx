@@ -1,0 +1,11 @@
+import Layout from "../../components/Layout";
+
+const MyOrders = () => {
+  return (
+    <Layout>
+      My Orders
+    </Layout>
+  );
+};
+
+export default MyOrders;
